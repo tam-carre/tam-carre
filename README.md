@@ -1,4 +1,4 @@
-### Hi there 👋
+![Codewars badge](https://www.codewars.com/users/alnj/badges/large)
 
 <!--
 **alnj/alnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
